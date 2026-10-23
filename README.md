@@ -1,2 +1,3 @@
 # MyFirstRepo <br />
-A newly added line
+A newly added line <br />
+Another new line
